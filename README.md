@@ -26,7 +26,7 @@
 ### 2\. Установка зависимостей
 
 ```bash
-pip install python-telegram-bot==20.7 pillow requests
+pip install python-telegram-bot pillow requests
 ```
 
 ### 3\. Настройка
